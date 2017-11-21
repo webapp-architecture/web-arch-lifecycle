@@ -1,0 +1,9 @@
+{
+  "name": "web-arch-lifecycle",
+  "version": "0.0.0",
+  "description": "web-arch-lifecycle",
+  "main": "app.js",
+  "author": {
+    "name": "l.pongracz"
+  }
+}
