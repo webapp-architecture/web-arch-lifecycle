@@ -1,9 +1,16 @@
 {
   "name": "web-arch-lifecycle",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "web-arch-lifecycle",
-  "main": "app.js",
+  "main": "src/lifecycle.mjs",
+  "license": "MIT",
+  "homepage": "https://github.com/webapp-architecture/web-arch-lifecycle",
   "author": {
-    "name": "l.pongracz"
+    "name": "pongracz-lajos",
+    "url": "https://github.com/pongracz-lajos"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webapp-architecture/web-arch-lifecycle.git"
   }
 }
